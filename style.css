@@ -1,0 +1,28 @@
+.table{
+    border: 1px,solid,bisque;
+    border-bottom-color: aqua;
+    border-bottom-width:2px ;
+    border-collapse: collapse;
+    width: 330px;
+    height: 360px;
+}
+.table_thead{
+    background-color: rgb(19, 182, 128);
+    color: white;
+    border-top-color: black;
+    font-family: sans-serif;
+    height: 35px;
+    text-align: left;    
+}
+.Rank1{
+    text-align: left;
+    font-family: sans-serif;
+}
+.Rank2{
+    background-color:rgb(245, 244, 244);
+    color:rgb(24, 207, 207);
+    font-family:sans-serif;
+}
+.Rank3{
+    font-family: sans-serif;
+}
